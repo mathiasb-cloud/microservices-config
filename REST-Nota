@@ -1,0 +1,3 @@
+spring.application.name=REST-Nota
+
+server.port=9008
