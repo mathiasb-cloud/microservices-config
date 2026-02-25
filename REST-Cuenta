@@ -1,0 +1,3 @@
+spring.application.name=REST-Cuenta
+
+server.port=9005
